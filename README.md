@@ -2,4 +2,3 @@
 This is Cousera Applied plot practice assigment
 
 
-
